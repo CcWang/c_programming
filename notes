@@ -9,3 +9,4 @@ Type int has a size of 4 bytes.
 getchar() and putchar() only work with individual ASCII characters. 
 getchar() and putchar() only work with individual ASCII characters. 
 getchar() and putchar() only work with individual ASCII characters. 
+getchar() and putchar() only work with individual ASCII characters. 
