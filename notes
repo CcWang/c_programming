@@ -4,3 +4,4 @@ c programming notes a single 1 or 0 stored in the computer is called a ‘bit’
 printf(); is part of C’s standard library of functions. located in a module called “stdio.h” (standard Input Ouput)
 Type int has a size of 4 bytes.
 Type int has a size of 4 bytes.
+Type int has a size of 4 bytes.
