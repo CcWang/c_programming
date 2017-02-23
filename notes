@@ -6,3 +6,4 @@ Type int has a size of 4 bytes.
 
 #define CONSTNAME value
 #define CONSTNAME value
+#define CONSTNAME value
