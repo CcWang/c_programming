@@ -44,4 +44,6 @@ int main(void){
 
 	//if the seconds is not positive number, let user know the program stoped
 	printf("Seconds you enter is not larger than 0. Stop the program.\n");
+
+	return 0;
 }
