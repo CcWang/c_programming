@@ -12,7 +12,7 @@ int main (void){
 		display(ch, rows, cols);
 		/*
 		Unlike scanf(), getchar() doesn’t skip over newline characters, 
-		so this newline char- acter is read by getchar() during the next 
+		so this newline character is read by getchar() during the next 
 		cycle of the loop before you have a chance to enter anything else. 
 		Then it’s assigned to ch, and ch being the newline character 
 		is the condition that terminates the loop.
