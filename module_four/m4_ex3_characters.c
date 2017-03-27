@@ -20,6 +20,7 @@ int main (void){
 	printf("Enter a character and one integer: \n");
 	//Get ch value and jump out of the while loop when user entered a new line.
 	while((ch = getchar()) !='\n'){
+		
 		// check if user provided a integer. if not, break the loop.
 		if(scanf("%d", &num) != 1)
 			break;

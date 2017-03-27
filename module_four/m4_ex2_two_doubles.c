@@ -27,7 +27,7 @@ int main(void){
 		//pass num1 and num2 value to print_doubles function to display 
 		print_doubles(num1, num2);
 
-
+		//to skip the end of line
 		while(getchar() !='\n')
 			continue;
 

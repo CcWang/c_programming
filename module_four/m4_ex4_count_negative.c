@@ -19,20 +19,7 @@ int main(void){
 	long num1,num2;
 
 	printf("Please enter two integers of data type \"long\".\n");
-	/*
-	while(getchar() != STOP){
-
-		if(scanf("%ld %ld", &num1, &num2) !=2)
-			break;
-		count = negative_count(num1, num2);
-		printf("%ld %ld \n", num1, num2 );
-		printf("Number of negative number entered %d\n", count);
-
-		printf("Please enter another two integers of data type \"long\".\n");
-		printf("Enter q to quit.\n");	}
-
-	printf("You didn't enter two long integers. Bye. \n");
-	*/
+	
 	// check if user provided two long integers
 	if(scanf("%ld %ld", &num1, &num2) ==2){
 		//passing num1 and num2 into negative_count function. 
